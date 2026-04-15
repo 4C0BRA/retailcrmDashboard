@@ -1,0 +1,1317 @@
+[
+    {
+        "firstName": "Алихан",
+        "lastName": "Мурат",
+        "phone": "+77011110001",
+        "email": "alikhan.m@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Смарт-часы Nova Pulse",
+                "quantity": 1,
+                "initialPrice": 45000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Караганда",
+                "text": "ул. Бухар-Жырау 42, кв 15"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-25 09:04:17"
+    },
+    {
+        "firstName": "Елена",
+        "lastName": "Иванова",
+        "phone": "+77022220002",
+        "email": "e.ivanova@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Беспроводные наушники Nova Sound",
+                "quantity": 1,
+                "initialPrice": 32000
+            },
+            {
+                "productName": "Защитное стекло Nova Glass",
+                "quantity": 2,
+                "initialPrice": 3500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Павлодар",
+                "text": "ул. Лермонтова 12, кв 88"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-04-13 13:04:17"
+    },
+    {
+        "firstName": "Берик",
+        "lastName": "Сапаров",
+        "phone": "+77073330003",
+        "email": "berik.s@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Портативная зарядка Nova Energy",
+                "quantity": 1,
+                "initialPrice": 18000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Актобе",
+                "text": "пр. Абилкайыр хана 65, кв 2"
+            }
+        },
+        "customFields": {
+            "utm_source": "facebook"
+        },
+        "createdAt": "2026-04-11 15:04:17"
+    },
+    {
+        "firstName": "Мария",
+        "lastName": "Смирнова",
+        "phone": "+77054440004",
+        "email": "m.smirnova@provider.net",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Умная лампа Nova Light",
+                "quantity": 3,
+                "initialPrice": 12500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Усть-Каменогорск",
+                "text": "ул. Казахстан 71, кв 44"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-04-09 19:04:17"
+    },
+    {
+        "firstName": "Санжар",
+        "lastName": "Адилов",
+        "phone": "+77005550005",
+        "email": "sanj_adilov@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Смарт-часы Nova Pulse",
+                "quantity": 1,
+                "initialPrice": 45000
+            },
+            {
+                "productName": "Портативная зарядка Nova Energy",
+                "quantity": 1,
+                "initialPrice": 18000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Атырау",
+                "text": "мкр. Алмагуль, д. 14, кв 56"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-03-31 18:04:17"
+    },
+    {
+        "firstName": "Данияр",
+        "lastName": "Омаров",
+        "phone": "+77016660006",
+        "email": "daniyar.o@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Игровая мышь Nova Click",
+                "quantity": 1,
+                "initialPrice": 22000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Костанай",
+                "text": "ул. Тауелсиздик 150, кв 10"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-04-12 13:04:17"
+    },
+    {
+        "firstName": "Анель",
+        "lastName": "Каримова",
+        "phone": "+77027770007",
+        "email": "anel.k@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Клавиатура Nova Type",
+                "quantity": 1,
+                "initialPrice": 28000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Тараз",
+                "text": "ул. Толе би 45, кв 22"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-25 06:04:17"
+    },
+    {
+        "firstName": "Игорь",
+        "lastName": "Петров",
+        "phone": "+77078880008",
+        "email": "igor.p@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Монитор Nova View",
+                "quantity": 1,
+                "initialPrice": 85000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Кызылорда",
+                "text": "ул. Абая 12, кв 5"
+            }
+        },
+        "customFields": {
+            "utm_source": "referral"
+        },
+        "createdAt": "2026-03-24 13:04:17"
+    },
+    {
+        "firstName": "Асель",
+        "lastName": "Мусаева",
+        "phone": "+77059990009",
+        "email": "asel.musa@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Веб-камера Nova Cam",
+                "quantity": 1,
+                "initialPrice": 15000
+            },
+            {
+                "productName": "Микрофон Nova Voice",
+                "quantity": 1,
+                "initialPrice": 25000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Актау",
+                "text": "14-й мкр, д. 20, кв 101"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-04-11 08:04:17"
+    },
+    {
+        "firstName": "Руслан",
+        "lastName": "Хамитов",
+        "phone": "+77001110010",
+        "email": "ruslan.kh@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Роутер Nova Net",
+                "quantity": 1,
+                "initialPrice": 19500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Орал",
+                "text": "ул. Достык 88, кв 34"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-03-25 01:04:17"
+    },
+    {
+        "firstName": "Динара",
+        "lastName": "Исаева",
+        "phone": "+77012220011",
+        "email": "dinara.i@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Планшет Nova Tab",
+                "quantity": 1,
+                "initialPrice": 120000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Талдыкорган",
+                "text": "ул. Жансугурова 11, кв 7"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-04-08 05:04:17"
+    },
+    {
+        "firstName": "Максим",
+        "lastName": "Волков",
+        "phone": "+77023330012",
+        "email": "m.volkov@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Колонки Nova Bass",
+                "quantity": 1,
+                "initialPrice": 42000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Петропавловск",
+                "text": "ул. Конституции 25, кв 19"
+            }
+        },
+        "customFields": {
+            "utm_source": "facebook"
+        },
+        "createdAt": "2026-04-11 12:04:17"
+    },
+    {
+        "firstName": "Зарина",
+        "lastName": "Ахметова",
+        "phone": "+77074440013",
+        "email": "zarina.a@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Флешка Nova Drive",
+                "quantity": 5,
+                "initialPrice": 4500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Кокшетау",
+                "text": "ул. Горького 3, кв 55"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-21 18:04:17"
+    },
+    {
+        "firstName": "Тимур",
+        "lastName": "Болатов",
+        "phone": "+77055550014",
+        "email": "timur.b@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Жесткий диск Nova Storage",
+                "quantity": 1,
+                "initialPrice": 38000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Туркестан",
+                "text": "ул. Бекзата Саттарханова 1, кв 12"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-04-03 12:04:17"
+    },
+    {
+        "firstName": "Алина",
+        "lastName": "Серикова",
+        "phone": "+77006660015",
+        "email": "alina.s@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Чехол для телефона Nova Case",
+                "quantity": 2,
+                "initialPrice": 5000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Шымкент",
+                "text": "пр. Кунаева 20, кв 30"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-04-12 03:04:17"
+    },
+    {
+        "firstName": "Арман",
+        "lastName": "Жунусов",
+        "phone": "+77017770016",
+        "email": "arman.zh@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Смарт-часы Nova Pulse",
+                "quantity": 1,
+                "initialPrice": 45000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Алматы",
+                "text": "пр. Достык 50, кв 120"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-04-03 03:04:17"
+    },
+    {
+        "firstName": "Гульназ",
+        "lastName": "Ермекова",
+        "phone": "+77028880017",
+        "email": "gulnaz.e@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Беспроводные наушники Nova Sound",
+                "quantity": 1,
+                "initialPrice": 32000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Астана",
+                "text": "ул. Мангилик Ел 17, кв 45"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-18 20:04:17"
+    },
+    {
+        "firstName": "Виктор",
+        "lastName": "Цой",
+        "phone": "+77079990018",
+        "email": "v.tsoy@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Игровая клавиатура Nova Mech",
+                "quantity": 1,
+                "initialPrice": 45000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Алматы",
+                "text": "ул. Гоголя 15, кв 3"
+            }
+        },
+        "customFields": {
+            "utm_source": "facebook"
+        },
+        "createdAt": "2026-04-06 09:04:17"
+    },
+    {
+        "firstName": "Айша",
+        "lastName": "Бердибек",
+        "phone": "+77051110019",
+        "email": "aisha.b@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Умные весы Nova Scale",
+                "quantity": 1,
+                "initialPrice": 14500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Семей",
+                "text": "ул. Абая 102, кв 14"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-31 11:04:17"
+    },
+    {
+        "firstName": "Олег",
+        "lastName": "Кузнецов",
+        "phone": "+77002220020",
+        "email": "oleg.k@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Видеорегистратор Nova Road",
+                "quantity": 1,
+                "initialPrice": 31000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Караганда",
+                "text": "ул. Ленина 5, кв 21"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-28 16:04:17"
+    },
+    {
+        "firstName": "Салтанат",
+        "lastName": "Дулатова",
+        "phone": "+77013330021",
+        "email": "saltanat.d@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Электронная книга Nova Read",
+                "quantity": 1,
+                "initialPrice": 58000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Павлодар",
+                "text": "ул. Сатпаева 15, кв 99"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-03-22 06:04:17"
+    },
+    {
+        "firstName": "Андрей",
+        "lastName": "Ли",
+        "phone": "+77024440022",
+        "email": "a.lee@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Экшн-камера Nova Go",
+                "quantity": 1,
+                "initialPrice": 62000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Актобе",
+                "text": "пр. Санкибай батыра 12, кв 40"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-03-16 13:04:17"
+    },
+    {
+        "firstName": "Мадина",
+        "lastName": "Жаксылык",
+        "phone": "+77075550023",
+        "email": "madina.zh@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Пылесос-робот Nova Clean",
+                "quantity": 1,
+                "initialPrice": 145000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Шымкент",
+                "text": "ул. Рыскулова 44, кв 2"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-31 13:04:17"
+    },
+    {
+        "firstName": "Кайрат",
+        "lastName": "Нуртас",
+        "phone": "+77056660024",
+        "email": "kairat.n@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Микрофон Nova Voice",
+                "quantity": 2,
+                "initialPrice": 25000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Астана",
+                "text": "ул. Кенесары 1, кв 1"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-22 06:04:17"
+    },
+    {
+        "firstName": "Юлия",
+        "lastName": "Пак",
+        "phone": "+77007770025",
+        "email": "y.pak@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Увлажнитель воздуха Nova Mist",
+                "quantity": 1,
+                "initialPrice": 21000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Алматы",
+                "text": "ул. Розыбакиева 250, кв 81"
+            }
+        },
+        "customFields": {
+            "utm_source": "facebook"
+        },
+        "createdAt": "2026-03-30 11:04:17"
+    },
+    {
+        "firstName": "Бауржан",
+        "lastName": "Момыш",
+        "phone": "+77018880026",
+        "email": "baur.m@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Набор инструментов Nova Pro",
+                "quantity": 1,
+                "initialPrice": 35000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Тараз",
+                "text": "ул. Байзак батыра 10, кв 5"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-03-21 14:04:17"
+    },
+    {
+        "firstName": "Диана",
+        "lastName": "Ким",
+        "phone": "+77029990027",
+        "email": "diana.kim@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Кофемолка Nova Grind",
+                "quantity": 1,
+                "initialPrice": 12000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Уральск",
+                "text": "ул. Курмангазы 30, кв 12"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-22 23:04:17"
+    },
+    {
+        "firstName": "Мурат",
+        "lastName": "Абенов",
+        "phone": "+77071110028",
+        "email": "murat.a@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Триммер Nova Cut",
+                "quantity": 1,
+                "initialPrice": 16500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Актау",
+                "text": "7-й мкр, д. 5, кв 22"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-04-02 03:04:17"
+    },
+    {
+        "firstName": "Индира",
+        "lastName": "Елемес",
+        "phone": "+77052220029",
+        "email": "indira.e@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Фен Nova Style",
+                "quantity": 1,
+                "initialPrice": 24000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Кокшетау",
+                "text": "ул. Абая 55, кв 3"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-30 15:04:17"
+    },
+    {
+        "firstName": "Ерлан",
+        "lastName": "Смагулов",
+        "phone": "+77003330030",
+        "email": "erlan.s@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Видеокарта Nova Core",
+                "quantity": 1,
+                "initialPrice": 250000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Караганда",
+                "text": "пр. Шахтеров 12, кв 104"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-03-28 23:04:17"
+    },
+    {
+        "firstName": "Наталья",
+        "lastName": "Сидорова",
+        "phone": "+77014440031",
+        "email": "n.sidorova@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Блендер Nova Mix",
+                "quantity": 1,
+                "initialPrice": 19000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Петропавловск",
+                "text": "ул. Мира 40, кв 67"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-17 14:04:17"
+    },
+    {
+        "firstName": "Асхат",
+        "lastName": "Тулеуов",
+        "phone": "+77025550032",
+        "email": "askhat.t@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Джойстик Nova Play",
+                "quantity": 2,
+                "initialPrice": 22000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Актобе",
+                "text": "ул. Маресьева 11, кв 4"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-03-17 05:04:17"
+    },
+    {
+        "firstName": "Жанна",
+        "lastName": "Ли",
+        "phone": "+77076660033",
+        "email": "zhanna.lee@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Умная розетка Nova Plug",
+                "quantity": 4,
+                "initialPrice": 4500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Талдыкорган",
+                "text": "ул. Балапанова 5, кв 18"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-04-10 03:04:17"
+    },
+    {
+        "firstName": "Сергей",
+        "lastName": "Безруков",
+        "phone": "+77057770034",
+        "email": "sergey.b@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Проектор Nova Cinema",
+                "quantity": 1,
+                "initialPrice": 115000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Алматы",
+                "text": "ул. Тимирязева 42, кв 50"
+            }
+        },
+        "customFields": {
+            "utm_source": "facebook"
+        },
+        "createdAt": "2026-03-24 15:04:17"
+    },
+    {
+        "firstName": "Айгерим",
+        "lastName": "Алиева",
+        "phone": "+77008880035",
+        "email": "aigerim.a@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Коврик для мыши Nova Surface",
+                "quantity": 1,
+                "initialPrice": 6000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Астана",
+                "text": "ул. Сарыарка 12, кв 89"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-04-06 07:04:17"
+    },
+    {
+        "firstName": "Владимир",
+        "lastName": "Кличко",
+        "phone": "+77019990036",
+        "email": "v.k@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Боксерские перчатки Nova Strike",
+                "quantity": 1,
+                "initialPrice": 25000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Шымкент",
+                "text": "ул. Байдибек би 1, кв 10"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-03-17 15:04:17"
+    },
+    {
+        "firstName": "Айдын",
+        "lastName": "Рахимбаев",
+        "phone": "+77021110037",
+        "email": "aidyn.r@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Дальномер Nova Scan",
+                "quantity": 1,
+                "initialPrice": 48000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Астана",
+                "text": "ул. Туран 20, кв 301"
+            }
+        },
+        "customFields": {
+            "utm_source": "referral"
+        },
+        "createdAt": "2026-04-11 22:04:17"
+    },
+    {
+        "firstName": "Татьяна",
+        "lastName": "Петрова",
+        "phone": "+77072220038",
+        "email": "t.petrova@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Тостер Nova Toast",
+                "quantity": 1,
+                "initialPrice": 14000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Костанай",
+                "text": "ул. Пушкина 12, кв 6"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-04-02 14:04:17"
+    },
+    {
+        "firstName": "Марат",
+        "lastName": "Ибрагимов",
+        "phone": "+77053330039",
+        "email": "m.ibragim@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Шуруповерт Nova Drill",
+                "quantity": 1,
+                "initialPrice": 32000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Усть-Каменогорск",
+                "text": "ул. Абая 5, кв 44"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-03-23 09:04:17"
+    },
+    {
+        "firstName": "Айнур",
+        "lastName": "Мусаева",
+        "phone": "+77004440040",
+        "email": "ainur.m@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Плойка Nova Wave",
+                "quantity": 1,
+                "initialPrice": 17500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Орал",
+                "text": "ул. Жангир хана 15, кв 90"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-27 23:04:17"
+    },
+    {
+        "firstName": "Руслан",
+        "lastName": "Белый",
+        "phone": "+77015550041",
+        "email": "r.beliy@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Умная колонка Nova Voice Mini",
+                "quantity": 1,
+                "initialPrice": 22000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Атырау",
+                "text": "ул. Азаттык 33, кв 12"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-04-09 16:04:17"
+    },
+    {
+        "firstName": "Эльмира",
+        "lastName": "Смагулова",
+        "phone": "+77026660042",
+        "email": "e.smagulova@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Электрический чайник Nova Boil",
+                "quantity": 1,
+                "initialPrice": 13000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Кызылорда",
+                "text": "ул. Журбы 10, кв 55"
+            }
+        },
+        "customFields": {
+            "utm_source": "facebook"
+        },
+        "createdAt": "2026-03-17 02:04:17"
+    },
+    {
+        "firstName": "Дархан",
+        "lastName": "Жумадилов",
+        "phone": "+77077770043",
+        "email": "darkhan.zh@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Велокомпьютер Nova Ride",
+                "quantity": 1,
+                "initialPrice": 15500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Семей",
+                "text": "ул. Ленина 2, кв 8"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-04-02 20:04:17"
+    },
+    {
+        "firstName": "Камила",
+        "lastName": "Даутова",
+        "phone": "+77058880044",
+        "email": "k.dautova@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Массажер Nova Relax",
+                "quantity": 1,
+                "initialPrice": 28000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Туркестан",
+                "text": "ул. Ерементау 12, кв 3"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-04-11 21:04:17"
+    },
+    {
+        "firstName": "Олжас",
+        "lastName": "Сулейменов",
+        "phone": "+77009990045",
+        "email": "olzhas.s@mail.ru",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Квадрокоптер Nova Fly",
+                "quantity": 1,
+                "initialPrice": 185000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Алматы",
+                "text": "пр. Абая 10, кв 405"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-25 12:04:17"
+    },
+    {
+        "firstName": "Аида",
+        "lastName": "Нияз",
+        "phone": "+77011110046",
+        "email": "aida.n@example.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Зеркало с подсветкой Nova Glow",
+                "quantity": 1,
+                "initialPrice": 19500
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Тараз",
+                "text": "ул. Жамбыла 88, кв 1"
+            }
+        },
+        "customFields": {
+            "utm_source": "tiktok"
+        },
+        "createdAt": "2026-03-19 19:04:17"
+    },
+    {
+        "firstName": "Тимур",
+        "lastName": "Кулибаев",
+        "phone": "+77022220047",
+        "email": "t.k@test.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Напольный вентилятор Nova Cool",
+                "quantity": 2,
+                "initialPrice": 11000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Астана",
+                "text": "пр. Кабанбай батыра 5, кв 20"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-19 12:04:17"
+    },
+    {
+        "firstName": "Сабина",
+        "lastName": "Алтынбекова",
+        "phone": "+77073330048",
+        "email": "sabina.a@mail.kz",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Волейбольный мяч Nova Spike",
+                "quantity": 1,
+                "initialPrice": 18000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Алматы",
+                "text": "ул. Сатпаева 2, кв 15"
+            }
+        },
+        "customFields": {
+            "utm_source": "instagram"
+        },
+        "createdAt": "2026-03-30 00:04:17"
+    },
+    {
+        "firstName": "Алексей",
+        "lastName": "Щербаков",
+        "phone": "+77054440049",
+        "email": "a.s@example.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Микрофон для стрима Nova Stream",
+                "quantity": 1,
+                "initialPrice": 35000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Павлодар",
+                "text": "ул. Кутузова 12, кв 9"
+            }
+        },
+        "customFields": {
+            "utm_source": "direct"
+        },
+        "createdAt": "2026-03-22 02:04:17"
+    },
+    {
+        "firstName": "Гульнара",
+        "lastName": "Бажкенова",
+        "phone": "+77005550050",
+        "email": "g.bazh@test.com",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "status": "new",
+        "items": [
+            {
+                "productName": "Кольцевая лампа Nova Ring",
+                "quantity": 1,
+                "initialPrice": 16000
+            }
+        ],
+        "delivery": {
+            "address": {
+                "city": "Актобе",
+                "text": "ул. Пацаева 1, кв 45"
+            }
+        },
+        "customFields": {
+            "utm_source": "google"
+        },
+        "createdAt": "2026-03-26 05:04:17"
+    }
+]
