@@ -5,16 +5,36 @@
 ## 🛠 Архитектура проекта
 1. **`upload_mock.py`** — Генератор и загрузчик тестовых заказов в RetailCRM (v5 API).
 2. **`pusher_supabase.py`** — ETL-скрипт. Синхронизирует данные заказов и товаров напрямую из RetailCRM в вашу базу данных на Supabase.
-3. **`dashboard/`** — Клиентская статистика (Vanilla JS + Chart.js + HTML/CSS). Строит 6 графиков в реальном времени.
-4. **`telegram_bot.py`** — Поллинг-воркер, который уведомляет в Telegram о новых жирных заказах.
+3. **`telegram_bot.py`** — Поллинг-воркер, который уведомляет в Telegram о новых жирных заказах.
 
 ---
 
 ## 🤖 Как мы это строили (Отчет Claude Code)
 
 ### Основные промпты, которые задавали направление:
+-Ты эксперт по API RetailCRM v5. Напиши полный Python-скрипт для загрузки **существующего файла mock_orders.json** (массив заказов в JSON) через POST /api/v5/orders/upload: https://docs.retailcrm.ru/Developers/API/APIMethods#post--api-v5-orders-upload.
+
+Ключевые требования:
+- Файл **mock_orders.json** уже существует в той же папке (НЕ генерируй его!).
+- Скрипт: 
+  1. Загрузи JSON из файла с **json.load()**.
+  2. Отправь POST на https://{DOMAIN}.retailcrm.ru/api/v5/orders/upload.
+  3. Параметры: **apiKey** и **site** из .env (DOMAIN, API_KEY, SITE='default').
+  4. Тело запроса: {"orders": данные_из_файла} или как требует API (orders как массив).
+  5. Headers: Content-Type: application/json.
+- Библиотеки: **requests**, **python-dotenv**, **json**.
+- Обработка: проверь статус 200-299, выведи response['uploadedOrders'], ['errors'], логируй ошибки.
+- Комментарии на русском, готов к запуску (pip install requests python-dotenv).
+- Пример .env:
+  DOMAIN=demo.retailcrm.ru
+  API_KEY=your_api_key
+  SITE=default
+
+Структура из docs: тело — JSON с массивом orders (externalId, items, delivery и т.д.).[web:11]
+
+Выведи: полный **upload_orders.py** + **.env.example**.
 - Напиши скрипт синхронизации данных из RetailCRM в Supabase. Обработай данные: вытащи имя, телефоны, сумму, адреса доставки и залей с `on_conflict=id`.
-- Измени стилистику дашборда на современный, сначала "Minimalism & Swiss Style", а затем **"Glassmorphism"** с блюром, тенями и анимацией. Поменяй рубли на тенге.
+- Измени стилистику дашборда на современный, сначала "Minimalism & Swiss Style", а затем **"Glassmorphism"** с блюром, тенями и анимацией. 
 - Добавь, чтобы в Supabase пушились только новые данные без создания дубликатов (`ignore_duplicates`).
 - В дашборде всё сливается в один день. Добавь случайные `createdAt` даты в историю за последние 30 дней.
 - Расширь аналитику: добавь Выручка по продуктам, Каналы привлечения, Заказы по городам, Выручка по каналу, Средний чек по каналу.
@@ -48,5 +68,4 @@
 ## 🚀 Деплой
 1. Настройте файл `.env`.
 2. Поднимите таблицы в Supabase.
-3. Запустите дашборд `python3 -m http.server 8042`.
-4. Запустите поллинг `python telegram_bot.py`.
+3. Запустите поллинг `python telegram_bot.py`.
