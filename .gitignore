@@ -4,3 +4,10 @@ __pycache__/
 *.log
 last_check.json
 .DS_Store
+node_modules/
+package.json
+package-lock.json
+skills-lock.json
+dashboard/
+dashboard-deploy/
+mock_orders.json
