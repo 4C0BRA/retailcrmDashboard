@@ -1,13 +1,31 @@
+# Secrets
 .env
+
+# Python
 .venv/
 __pycache__/
+*.pyc
+
+# Logs & state
 *.log
 last_check.json
-.DS_Store
+
+# Node
 node_modules/
 package.json
 package-lock.json
-skills-lock.json
+
+# Dashboard (отдельный репо)
 dashboard/
 dashboard-deploy/
+
+# Temp / IDE
+.DS_Store
+skills-lock.json
+
+# Agent internals
+.agents/
+.gemini/
+
+# Old mock data
 mock_orders.json
